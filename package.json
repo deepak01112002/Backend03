@@ -1,7 +1,7 @@
 {
   "name": "day10mongodb_with_ejs",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "start": "node index.js"
   },
